@@ -57,7 +57,7 @@ section.imagem>p{
     text-shadow: 1px 2px 10px black;
 }
 .ela{
-    background-image: url("imagens/back3.jpg");
+    background-image: url("imagens/ela.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -69,7 +69,6 @@ section.imagem>p{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    rotate-iamge: rotate(90deg)
 }
 .bailarina{
     background-image: url("imagens/back.jpg");
