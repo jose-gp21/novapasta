@@ -73,7 +73,7 @@ section.imagem>p{
 }
 .bailarina{
     background-image: url("imagens/back.jpg");
-    background-position: top center;
+    background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
